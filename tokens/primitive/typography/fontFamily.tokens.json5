@@ -1,0 +1,18 @@
+{
+    font:{
+        family:{
+            Arial:{
+                $type:"fontFamily",
+                $value:"Ar"
+            },
+            "Calibre":{
+               $type:"fontFamily",
+                $value:"ca"
+            },
+             "Helvetica":{
+                $type:"fontFamily",
+                $value:["Helvetica","Helvetica Neue"]
+            },
+        }
+    }
+}

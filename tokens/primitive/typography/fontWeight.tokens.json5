@@ -1,0 +1,18 @@
+{
+    font:{
+        weight:{
+            "2":{
+                $type:"fontWeight",
+                $value:2
+            },
+            "4":{
+               $type:"fontWeight",
+                $value:4
+            },
+             "6":{
+                $type:"fontWeight",
+                $value:6
+            },
+        }
+    }
+}

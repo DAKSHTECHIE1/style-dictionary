@@ -1,0 +1,18 @@
+{
+    font:{
+        letterSpacing:{
+            default:{
+                $type:"dimension",
+                $value:"1px"
+            },
+            "1point1":{
+                $type:"dimension",
+                $value:"1.1px"
+            },
+             "1point2":{
+                $type:"dimension",
+                $value:"1.2px"
+            },
+        }
+    }
+}

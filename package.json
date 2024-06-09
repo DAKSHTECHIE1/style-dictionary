@@ -1,0 +1,22 @@
+{
+  "name": "style-dictionary-tokens",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "setup": "node src/index.js",
+    "build": "rm -rf dist && node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "style-dictionary": "^3.9.2",
+    "style-dictionary-utils": "^2.4.1"
+  },
+  "devDependencies": {
+    "json5": "^2.2.3"
+  }
+}
